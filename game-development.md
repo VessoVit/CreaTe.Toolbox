@@ -10,10 +10,15 @@ Virtual Game Lab [Game Engine Unity Resources](http://www.virtualgamelab.com/uni
 #####Mobile 
 [Cocos2D iPhone](http://www.cocos2d-iphone.org/)
 
-#####HTML Game development
+##### HTML Game development
 [libRocket](http://librocket.com/) - HTML/CSS Game Interface Middleware
 
-#####Animations
+
+##### Text Based
+[ChatMapper](http://www.chatmapper.com/) - TextBased game engine
+[Inklewriter](http://www.inklestudios.com/inklewriter/) - Write your own interactive story.
+
+##### Animations
 [IKinema ](http://www.ikinema.com/) - rigging, animation, motion capture, mocap, retargeting game, animation, game retargeting, Maya run-time, real-time  
 [Natural Motion ](http://www.naturalmotion.com/)  
 
